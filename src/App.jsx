@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Aamir Aziz",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
+  title: "Data Scientist",
+  email: "aamiraziz894@gmail.com",
+  gitHub: "Enggaamir",
   instagram: "microsoft",
-  linkedIn: "satyanadella",
+  linkedIn: "aamir-aziz",
   medium: "",
   twitter: "microsoft",
   youTube: "Code",
